@@ -2,6 +2,6 @@
 class Dog 
 
 
-def {#bark} 
+def bark
 puts "woof!"
 end
