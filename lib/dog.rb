@@ -7,7 +7,7 @@ def sit
   puts "The Dog is sitting"
 end
 def bark
-puts "woof!"
+puts "Woof!"
 end
 end 
 
