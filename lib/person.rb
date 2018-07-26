@@ -6,6 +6,6 @@ def Person
     puts "hello world"
   end 
 def walk 
-  puts "the person is walking"
+  puts "The Person is walking"
 end 
 end 
